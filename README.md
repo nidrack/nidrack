@@ -21,7 +21,10 @@ Estou upando periodicamente os exercícios que tenho praticado e também alguns 
 
 -Arrays e listas (LINQ e básico lambda)
 
-(UPDATE 09/10/2021)
+
+- (UPDATE 09/10/2021) - 
+
+
 Também estudando sobre algumas coisas mais avançadas em C#:
 
 -Dictionary
