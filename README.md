@@ -20,21 +20,20 @@ Estou upando periodicamente os exercícios que tenho praticado e também alguns 
 -Excessões
 
 -Arrays e listas (LINQ e básico lambda)
+ 
+-Leitura/escrita de arquivos
+
+-JSON (Newtonsoft Framework)
 
 
 - (UPDATE 09/10/2021) - 
-
-
-Também estudando sobre algumas coisas mais avançadas em C#:
-
--Dictionary
-
--Threading (tasks, action)
 
 Os próximos de estudo são
 
 -SQL
 
--Rest (DTO)
+-Rest / Restful
 
--frontend (WPF / React)
+-frontend (WPF Desktop / React Web)
+
+
