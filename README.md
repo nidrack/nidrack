@@ -1,7 +1,7 @@
-Opa, bem vindo ao meu perfil GitHub.
+Opa, bem vindo ao meu perfil GitHub. <br>
 
-Sou estudante de programação e estou aprendendo a linguagem C#.
-Estou upando periodicamente os exercícios que tenho praticado e também alguns projetinhos que tenho usados para assimilar e exercitar os novos conhecimentos.
+Sou estudante de programação e estou aprendendo a linguagem C#. <br>
+Estou upando periodicamente os exercícios que tenho praticado e também alguns projetinhos que tenho usados para assimilar e exercitar os novos conhecimentos. <br>
 
 -Conceitos de programação (algoritmos, linguagem léxica e sintática, compilação, etc) <br>
 -Tipos e conversões (casting, DateTime, Globalization) <br>
@@ -15,11 +15,11 @@ Estou upando periodicamente os exercícios que tenho praticado e também alguns 
 -Leitura/escrita de arquivos <br>
 -JSON (Newtonsoft Framework) <br>
 
-(UPDATE 05/02/2023)
-Iniciei minha carreira no TI comoo estagiário de sistemas em março/22. Logo breve, em agosto/22 alcansei o cargo de Analista de Sistemas Junior.
+(UPDATE 05/02/2023) <br>
+Iniciei minha carreira no TI comoo estagiário de sistemas em março/22. Logo breve, em agosto/22 alcansei o cargo de Analista de Sistemas Junior. <br>
 Associada a experiência no mercado e as habilidades aprendidas nos estudos de programação, pude com extrema facilidade passar a manter e implantar sistemas
-para o negócio.
+para o negócio. <br>
 
-Neste inicio de 2023, retomei meus estudos com programação, dessa vez, aprendendo a linguagem Javascript.
+Neste inicio de 2023, retomei meus estudos com programação, dessa vez, aprendendo a linguagem Javascript. <br>
 
 Sempre com paixão no desenvolvimento, pretendo evoluir no backend.
